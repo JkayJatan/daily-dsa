@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/JkayJatan/daily-dsa/tree/master/0001-two-sum) |
 | [1260-shift-2d-grid](https://github.com/JkayJatan/daily-dsa/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/JkayJatan/daily-dsa/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/JkayJatan/daily-dsa/tree/master/1301-number-of-paths-with-max-score) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/JkayJatan/daily-dsa/tree/master/0001-two-sum) |
 | [1331-rank-transform-of-an-array](https://github.com/JkayJatan/daily-dsa/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/JkayJatan/daily-dsa/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/JkayJatan/daily-dsa/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
