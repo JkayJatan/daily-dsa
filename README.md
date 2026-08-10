@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/JkayJatan/daily-dsa/tree/master/0001-two-sum) |
 | [0189-rotate-array](https://github.com/JkayJatan/daily-dsa/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/JkayJatan/daily-dsa/tree/master/0283-move-zeroes) |
 | [0486-predict-the-winner](https://github.com/JkayJatan/daily-dsa/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/JkayJatan/daily-dsa/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/JkayJatan/daily-dsa/tree/master/0877-stone-game) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/JkayJatan/daily-dsa/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/JkayJatan/daily-dsa/tree/master/0283-move-zeroes) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/JkayJatan/daily-dsa/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/JkayJatan/daily-dsa/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Bit Manipulation
