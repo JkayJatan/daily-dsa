@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/JkayJatan/daily-dsa/tree/master/0001-two-sum) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/JkayJatan/daily-dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/JkayJatan/daily-dsa/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/JkayJatan/daily-dsa/tree/master/0283-move-zeroes) |
 | [0486-predict-the-winner](https://github.com/JkayJatan/daily-dsa/tree/master/0486-predict-the-winner) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/JkayJatan/daily-dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/JkayJatan/daily-dsa/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/JkayJatan/daily-dsa/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/JkayJatan/daily-dsa/tree/master/3312-sorted-gcd-pair-queries) |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/JkayJatan/daily-dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/JkayJatan/daily-dsa/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/JkayJatan/daily-dsa/tree/master/0283-move-zeroes) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/JkayJatan/daily-dsa/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
