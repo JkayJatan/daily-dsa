@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/JkayJatan/daily-dsa/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/JkayJatan/daily-dsa/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/JkayJatan/daily-dsa/tree/master/0877-stone-game) |
+| [0977-squares-of-a-sorted-array](https://github.com/JkayJatan/daily-dsa/tree/master/0977-squares-of-a-sorted-array) |
 | [1140-stone-game-ii](https://github.com/JkayJatan/daily-dsa/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/JkayJatan/daily-dsa/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/JkayJatan/daily-dsa/tree/master/1288-remove-covered-intervals) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/JkayJatan/daily-dsa/tree/master/0628-maximum-product-of-three-numbers) |
+| [0977-squares-of-a-sorted-array](https://github.com/JkayJatan/daily-dsa/tree/master/0977-squares-of-a-sorted-array) |
 | [1288-remove-covered-intervals](https://github.com/JkayJatan/daily-dsa/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/JkayJatan/daily-dsa/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/JkayJatan/daily-dsa/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/JkayJatan/daily-dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/JkayJatan/daily-dsa/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/JkayJatan/daily-dsa/tree/master/0283-move-zeroes) |
+| [0977-squares-of-a-sorted-array](https://github.com/JkayJatan/daily-dsa/tree/master/0977-squares-of-a-sorted-array) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/JkayJatan/daily-dsa/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/JkayJatan/daily-dsa/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Bit Manipulation
