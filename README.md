@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/JkayJatan/daily-dsa/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/JkayJatan/daily-dsa/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0904-fruit-into-baskets](https://github.com/JkayJatan/daily-dsa/tree/master/0904-fruit-into-baskets) |
 | [1096-brace-expansion-ii](https://github.com/JkayJatan/daily-dsa/tree/master/1096-brace-expansion-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/JkayJatan/daily-dsa/tree/master/1331-rank-transform-of-an-array) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/JkayJatan/daily-dsa/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0115-distinct-subsequences](https://github.com/JkayJatan/daily-dsa/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/JkayJatan/daily-dsa/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/JkayJatan/daily-dsa/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/JkayJatan/daily-dsa/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/JkayJatan/daily-dsa/tree/master/0209-minimum-size-subarray-sum) |
 | [0904-fruit-into-baskets](https://github.com/JkayJatan/daily-dsa/tree/master/0904-fruit-into-baskets) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/JkayJatan/daily-dsa/tree/master/1358-number-of-substrings-containing-all-three-characters) |
