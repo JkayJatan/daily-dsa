@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/JkayJatan/daily-dsa/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/JkayJatan/daily-dsa/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/JkayJatan/daily-dsa/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/JkayJatan/daily-dsa/tree/master/0142-linked-list-cycle-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/JkayJatan/daily-dsa/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/JkayJatan/daily-dsa/tree/master/0904-fruit-into-baskets) |
 | [1096-brace-expansion-ii](https://github.com/JkayJatan/daily-dsa/tree/master/1096-brace-expansion-ii) |
@@ -387,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/JkayJatan/daily-dsa/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/JkayJatan/daily-dsa/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0141-linked-list-cycle](https://github.com/JkayJatan/daily-dsa/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/JkayJatan/daily-dsa/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/JkayJatan/daily-dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/JkayJatan/daily-dsa/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/JkayJatan/daily-dsa/tree/master/0283-move-zeroes) |
@@ -506,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/JkayJatan/daily-dsa/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/JkayJatan/daily-dsa/tree/master/0142-linked-list-cycle-ii) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/JkayJatan/daily-dsa/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Tree
 |  |
@@ -532,4 +535,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/JkayJatan/daily-dsa/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/JkayJatan/daily-dsa/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
