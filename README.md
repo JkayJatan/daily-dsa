@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/JkayJatan/daily-dsa/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/JkayJatan/daily-dsa/tree/master/0202-happy-number) |
 | [0486-predict-the-winner](https://github.com/JkayJatan/daily-dsa/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/JkayJatan/daily-dsa/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/JkayJatan/daily-dsa/tree/master/0836-rectangle-overlap) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/JkayJatan/daily-dsa/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/JkayJatan/daily-dsa/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/JkayJatan/daily-dsa/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/JkayJatan/daily-dsa/tree/master/0202-happy-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/JkayJatan/daily-dsa/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/JkayJatan/daily-dsa/tree/master/0904-fruit-into-baskets) |
 | [1096-brace-expansion-ii](https://github.com/JkayJatan/daily-dsa/tree/master/1096-brace-expansion-ii) |
@@ -393,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/JkayJatan/daily-dsa/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/JkayJatan/daily-dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/JkayJatan/daily-dsa/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/JkayJatan/daily-dsa/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/JkayJatan/daily-dsa/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/JkayJatan/daily-dsa/tree/master/0287-find-the-duplicate-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/JkayJatan/daily-dsa/tree/master/0977-squares-of-a-sorted-array) |
@@ -540,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/JkayJatan/daily-dsa/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/JkayJatan/daily-dsa/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/JkayJatan/daily-dsa/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/JkayJatan/daily-dsa/tree/master/0287-find-the-duplicate-number) |
 ## Pigeonhole Principle
 |  |
