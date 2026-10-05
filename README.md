@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/JkayJatan/daily-dsa/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/JkayJatan/daily-dsa/tree/master/0053-maximum-subarray) |
 | [0115-distinct-subsequences](https://github.com/JkayJatan/daily-dsa/tree/master/0115-distinct-subsequences) |
+| [0152-maximum-product-subarray](https://github.com/JkayJatan/daily-dsa/tree/master/0152-maximum-product-subarray) |
 | [0486-predict-the-winner](https://github.com/JkayJatan/daily-dsa/tree/master/0486-predict-the-winner) |
 | [0678-valid-parenthesis-string](https://github.com/JkayJatan/daily-dsa/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/JkayJatan/daily-dsa/tree/master/0877-stone-game) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/JkayJatan/daily-dsa/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/JkayJatan/daily-dsa/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/JkayJatan/daily-dsa/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0152-maximum-product-subarray](https://github.com/JkayJatan/daily-dsa/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/JkayJatan/daily-dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/JkayJatan/daily-dsa/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/JkayJatan/daily-dsa/tree/master/0209-minimum-size-subarray-sum) |
