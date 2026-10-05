@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/JkayJatan/daily-dsa/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/JkayJatan/daily-dsa/tree/master/0032-longest-valid-parentheses) |
+| [0053-maximum-subarray](https://github.com/JkayJatan/daily-dsa/tree/master/0053-maximum-subarray) |
 | [0115-distinct-subsequences](https://github.com/JkayJatan/daily-dsa/tree/master/0115-distinct-subsequences) |
 | [0486-predict-the-winner](https://github.com/JkayJatan/daily-dsa/tree/master/0486-predict-the-winner) |
 | [0678-valid-parenthesis-string](https://github.com/JkayJatan/daily-dsa/tree/master/0678-valid-parenthesis-string) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/JkayJatan/daily-dsa/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/JkayJatan/daily-dsa/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/JkayJatan/daily-dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0053-maximum-subarray](https://github.com/JkayJatan/daily-dsa/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/JkayJatan/daily-dsa/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/JkayJatan/daily-dsa/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/JkayJatan/daily-dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/JkayJatan/daily-dsa/tree/master/0053-maximum-subarray) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/JkayJatan/daily-dsa/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/JkayJatan/daily-dsa/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Segment Tree
