@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/JkayJatan/daily-dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/JkayJatan/daily-dsa/tree/master/0628-maximum-product-of-three-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/JkayJatan/daily-dsa/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/JkayJatan/daily-dsa/tree/master/0724-find-pivot-index) |
 | [0835-image-overlap](https://github.com/JkayJatan/daily-dsa/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/JkayJatan/daily-dsa/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/JkayJatan/daily-dsa/tree/master/0904-fruit-into-baskets) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/JkayJatan/daily-dsa/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/JkayJatan/daily-dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/JkayJatan/daily-dsa/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/JkayJatan/daily-dsa/tree/master/0724-find-pivot-index) |
 | [1140-stone-game-ii](https://github.com/JkayJatan/daily-dsa/tree/master/1140-stone-game-ii) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/JkayJatan/daily-dsa/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/JkayJatan/daily-dsa/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
