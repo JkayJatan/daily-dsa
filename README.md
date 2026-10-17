@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/JkayJatan/daily-dsa/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/JkayJatan/daily-dsa/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/JkayJatan/daily-dsa/tree/master/0977-squares-of-a-sorted-array) |
+| [0986-interval-list-intersections](https://github.com/JkayJatan/daily-dsa/tree/master/0986-interval-list-intersections) |
 | [1140-stone-game-ii](https://github.com/JkayJatan/daily-dsa/tree/master/1140-stone-game-ii) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/JkayJatan/daily-dsa/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1260-shift-2d-grid](https://github.com/JkayJatan/daily-dsa/tree/master/1260-shift-2d-grid) |
@@ -465,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/JkayJatan/daily-dsa/tree/master/0287-find-the-duplicate-number) |
 | [0876-middle-of-the-linked-list](https://github.com/JkayJatan/daily-dsa/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/JkayJatan/daily-dsa/tree/master/0977-squares-of-a-sorted-array) |
+| [0986-interval-list-intersections](https://github.com/JkayJatan/daily-dsa/tree/master/0986-interval-list-intersections) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/JkayJatan/daily-dsa/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/JkayJatan/daily-dsa/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/JkayJatan/daily-dsa/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -639,4 +641,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/JkayJatan/daily-dsa/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/JkayJatan/daily-dsa/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+## Sweep Line
+|  |
+| ------- |
+| [0986-interval-list-intersections](https://github.com/JkayJatan/daily-dsa/tree/master/0986-interval-list-intersections) |
 <!---LeetCode Topics End-->
