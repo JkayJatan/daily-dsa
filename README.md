@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0986-interval-list-intersections](https://github.com/JkayJatan/daily-dsa/tree/master/0986-interval-list-intersections) |
 | [1140-stone-game-ii](https://github.com/JkayJatan/daily-dsa/tree/master/1140-stone-game-ii) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/JkayJatan/daily-dsa/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1254-number-of-closed-islands](https://github.com/JkayJatan/daily-dsa/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/JkayJatan/daily-dsa/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/JkayJatan/daily-dsa/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/JkayJatan/daily-dsa/tree/master/1301-number-of-paths-with-max-score) |
@@ -408,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/JkayJatan/daily-dsa/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/JkayJatan/daily-dsa/tree/master/1096-brace-expansion-ii) |
+| [1254-number-of-closed-islands](https://github.com/JkayJatan/daily-dsa/tree/master/1254-number-of-closed-islands) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/JkayJatan/daily-dsa/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/JkayJatan/daily-dsa/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/JkayJatan/daily-dsa/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -417,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/JkayJatan/daily-dsa/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/JkayJatan/daily-dsa/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/JkayJatan/daily-dsa/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/JkayJatan/daily-dsa/tree/master/2685-count-the-number-of-complete-components) |
@@ -435,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0835-image-overlap](https://github.com/JkayJatan/daily-dsa/tree/master/0835-image-overlap) |
+| [1254-number-of-closed-islands](https://github.com/JkayJatan/daily-dsa/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/JkayJatan/daily-dsa/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/JkayJatan/daily-dsa/tree/master/1301-number-of-paths-with-max-score) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/JkayJatan/daily-dsa/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -463,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/JkayJatan/daily-dsa/tree/master/1254-number-of-closed-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/JkayJatan/daily-dsa/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/JkayJatan/daily-dsa/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/JkayJatan/daily-dsa/tree/master/2685-count-the-number-of-complete-components) |
