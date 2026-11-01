@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/JkayJatan/daily-dsa/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/JkayJatan/daily-dsa/tree/master/0202-happy-number) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/JkayJatan/daily-dsa/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/JkayJatan/daily-dsa/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/JkayJatan/daily-dsa/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/JkayJatan/daily-dsa/tree/master/0836-rectangle-overlap) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/JkayJatan/daily-dsa/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/JkayJatan/daily-dsa/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/JkayJatan/daily-dsa/tree/master/0287-find-the-duplicate-number) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/JkayJatan/daily-dsa/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/JkayJatan/daily-dsa/tree/master/0486-predict-the-winner) |
 | [0525-contiguous-array](https://github.com/JkayJatan/daily-dsa/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/JkayJatan/daily-dsa/tree/master/0560-subarray-sum-equals-k) |
