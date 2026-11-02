@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/JkayJatan/daily-dsa/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/JkayJatan/daily-dsa/tree/master/0202-happy-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/JkayJatan/daily-dsa/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/JkayJatan/daily-dsa/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/JkayJatan/daily-dsa/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/JkayJatan/daily-dsa/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/JkayJatan/daily-dsa/tree/master/0836-rectangle-overlap) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/JkayJatan/daily-dsa/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/JkayJatan/daily-dsa/tree/master/0287-find-the-duplicate-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/JkayJatan/daily-dsa/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/JkayJatan/daily-dsa/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/JkayJatan/daily-dsa/tree/master/0486-predict-the-winner) |
 | [0525-contiguous-array](https://github.com/JkayJatan/daily-dsa/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/JkayJatan/daily-dsa/tree/master/0560-subarray-sum-equals-k) |
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/JkayJatan/daily-dsa/tree/master/0016-3sum-closest) |
 | [0056-merge-intervals](https://github.com/JkayJatan/daily-dsa/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/JkayJatan/daily-dsa/tree/master/0075-sort-colors) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/JkayJatan/daily-dsa/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/JkayJatan/daily-dsa/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/JkayJatan/daily-dsa/tree/master/0977-squares-of-a-sorted-array) |
 | [1096-brace-expansion-ii](https://github.com/JkayJatan/daily-dsa/tree/master/1096-brace-expansion-ii) |
